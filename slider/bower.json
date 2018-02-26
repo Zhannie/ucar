@@ -1,0 +1,41 @@
+{
+  "name": "jquery-beforeafter",
+  "authors": [
+    "Firdouss Ross <hello@geekmy.co> (http://geekmy.github.io)"
+  ],
+  "description": "jQuery plugin for showing before and after images",
+  "main": [
+    "src/main.js",
+    "src/styles.less"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geekmy/jquery-beforeafter.git"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "plugin",
+    "before",
+    "after",
+    "hover",
+    "slide"
+  ],
+  "license": "MIT",
+  "homepage": "http://geekmy.github.io/jquery-beforeafter/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
